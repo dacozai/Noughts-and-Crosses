@@ -1,9 +1,9 @@
-#######################################################################
-# Copyright (C)                                                       #
-# 2018 - 2019 Li-Han, Chen(lhc37@bath.ac.uk)                          #
-# Permission given to modify the code as long as you keep this        #
-# declaration at the top                                              #
-#######################################################################
+#################################################################
+# Copyright (C)                                                 #
+# 2018 - 2019 Li-Han, Chen(lhc37@bath.ac.uk)                    #
+# Permission given to modify the code as long as you keep this  #
+# declaration at the top                                        #
+#################################################################
 
 import numpy as np
 import sys
