@@ -53,7 +53,6 @@ class Board:
     self._board: Sequence[Sequence[int]] = np.zeros((self._row,self._col), dtype=int)
     self._black_stone = -1
     self._white_stone = 1
-
     self.__empty = 0
 
   @property

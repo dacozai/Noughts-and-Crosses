@@ -1,9 +1,17 @@
 # Noughts-and-Crosses
 This is the environment for noughts and crosses(Tic-Tac-Toe).
-I will publish my dissertation sooner or later, and this is the environment that I test my agents.
+I have tested my project in this envrionment. (I am about to publish it about one month later.)
 
-The environment is designed to exmaine the learning of reinforcement learning agents and meta-learning agents.
+The outout is a row-by-col 2-D arrays.
+The cross (black stone) is represented by -1
+The noughts (white stone) is represented by 1
+The empty cell is 0
 
+# Envrionment
+> Python 3.7.4
+> numpy 1.16.4
+
+# Usage
 ```bash
 cd unit-test
 python3 board_test.py
