@@ -9,6 +9,7 @@ The empty cell is 0
 
 # Envrionment
 > Python 3.7.4
+
 > numpy 1.16.4
 
 # Usage
