@@ -1,6 +1,6 @@
 #################################################################
 # Copyright (C)                                                 #
-# 2018 - 2019 Li-Han, Chen(lhc37@bath.ac.uk)                    #
+# 2018 - 2019 Li-Han, Chen(eden.chen@bath.edu)                  #
 # Permission given to modify the code as long as you keep this  #
 # declaration at the top                                        #
 #################################################################
